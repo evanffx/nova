@@ -371,4 +371,5 @@ public class KeyboardHook
 [KeyboardHook]::SetF8Action({ Invoke-NewOptimization })
 
 # Start the keyboard hook
+
 [KeyboardHook]::Start()
